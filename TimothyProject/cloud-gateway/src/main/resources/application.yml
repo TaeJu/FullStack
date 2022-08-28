@@ -1,0 +1,13 @@
+server:
+  port: 9191
+
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+        - id: RIDE-PRODUCER-SERVICE
+          uri: lb://RIDE-PRODUCER-SERVICE
+          predicates:
+            - Path=/rideproducer/**

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BibleStudyService/BibleStudyService.iml" filepath="$PROJECT_DIR$/BibleStudyService/BibleStudyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmailService/EmailService.iml" filepath="$PROJECT_DIR$/EmailService/EmailService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoticeBoardService/NoticeBoardService.iml" filepath="$PROJECT_DIR$/NoticeBoardService/NoticeBoardService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RideConsumer/RideConsumer.iml" filepath="$PROJECT_DIR$/RideConsumer/RideConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RideProducer/RideProducer.iml" filepath="$PROJECT_DIR$/RideProducer/RideProducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TimothyProject.iml" filepath="$PROJECT_DIR$/.idea/TimothyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
+    </modules>
+  </component>
+</project>
